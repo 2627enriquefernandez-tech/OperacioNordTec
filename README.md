@@ -1,3 +1,11 @@
+[!Note]
+>[!Important]
+
+
+
+
+
+
 # Operació Nord Tec
 
 **Alumne: Enrique Fernandez** 
@@ -26,6 +34,18 @@
 
 ## 1. Estat del projecte
 
+Syntax: `- [ ] task`
+- [ ] task
+
+:::success
+>[!Tip] Pressing  <kbd>Tab</kbd>  within a line will achieve the effect of a sublist.
+>Edit according to your needs.
+
+1. order list
+    - unorder list
+2. order list
+    - [ ] task
+:::
 ### ✅ Fet
 * 
 
