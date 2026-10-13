@@ -1,7 +1,7 @@
 # Operació Nord Tec
 
 **Alumne: Enrique Fernandez** 
-**Grup classe: Asix 1B** 
+**Grup classe: 1r Asix 1B** 
 
 ---
 
