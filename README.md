@@ -53,13 +53,9 @@
 ## 4. Incidències i solucions
 
 ### 🛑 Incidència 1: 
-
 ---
-
 ## 5. Decisions tècniques
-
 ---
-
 ## 6. Reflexions tècniques
 
 * **Punts positius:** 
