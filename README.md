@@ -26,7 +26,6 @@
 ## 1. Estat del projecte
 
 ### ✅ Fet
-* 
 
 ### ⏳ Pendent
 
@@ -40,9 +39,6 @@
 
 | Dispositiu | Interfície | Adreça IP / Màscara | Gateway | Rol / Funció |
 | :--- | :--- | :--- | :--- | :--- |
-| | | | | |
-| | | | | |
-| | | | | |
 
 
 ---
